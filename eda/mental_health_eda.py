@@ -4,8 +4,8 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import os
 
-DATA_PATH = "C:/Users/sa/Desktop/Final Project/data/mental_health_dataset.csv"
-PLOT_DIR = "C:/Users/sa/Desktop/Final Project/assets/plots"
+DATA_PATH = "eda/mental_health_dataset.csv"
+PLOT_DIR = "assets/plots"
 os.makedirs(PLOT_DIR, exist_ok=True)
 
 
