@@ -2,20 +2,20 @@
 
 A **Streamlit-based machine learning app** that predicts mental health risk and visualizes insights using a real-world dataset. This project explores mental health trends, identifies risk factors, and provides an interactive interface for predictions.
 
-## 🚀 Live Demo
-👉 [Click here to try the app](https://share.streamlit.io/your-a700sharma/mental-health-risk-predictor/main/app/app.py)
+👉 ## 🔗 Live App
+👉 [Click to Launch Mental Health Risk Predictor](https://mental-health-risk-predictor-<https://mental-health-risk-predictor-wqdeq6ccadwkamkybwsyxm.streamlit.app>)
+
+## 🧠 About the Project
+This app predicts the risk of mental health issues based on user input such as age, gender, work environment, and more...
+
+## 📦 Built With
+- Streamlit
+- Scikit-learn
+- Pandas
+- Python
+
 
 ---
-
-## 📌 Table of Contents
-- [About the Project](A Streamlit-based app that predicts mental health risk and visualizes 
-                      insights using a real-world dataset.)
-- [Technologies Used](Python 3.8+
-                      Pandas, NumPy
-                      Matplotlib, Seaborn
-                      Scikit-learn
-                      Streamlit
-                      Pickle)
 - [How to Run Locally](git clone https://github.com/a700sharma/mental-health-risk-predictor.git
                        cd mental-health-risk-predictor)
 - [Screenshots](#screenshots)
